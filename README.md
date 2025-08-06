@@ -1,4 +1,4 @@
-# Humanforce QA Engineer Assessment
+# Todo Test Guide
 
 This repository contains an Appium + Java test suite automating the Todo app.
 
